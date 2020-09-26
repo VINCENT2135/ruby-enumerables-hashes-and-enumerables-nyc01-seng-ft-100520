@@ -11,7 +11,6 @@ passengers.each do |suit, name|
     name.start_with?("A")
      winner = name 
    end
- 
+ end
 
   # add your code snippet here!
-end
